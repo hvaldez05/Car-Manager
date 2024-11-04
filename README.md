@@ -71,8 +71,7 @@ java -cp bin StartProgram
 ```
 
 ### Adding a Car
-To add a new car to the Apologies! Here’s the continuation and full content for the `README.md` file:
-
+To add a new car 
 ```markdown
 # CarCatalog Project
 
