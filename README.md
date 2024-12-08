@@ -157,6 +157,32 @@ For example:
 add Ferrari Spider 2024 625000
 ```
 
+### Removing a Car
+
+To remove a car to the catalog, you can enter the following command in the terminal when prompted:
+
+```bash
+remove [make] [model] [year]
+```
+
+For example:
+```bash
+remove Ferrari Spider 2024 
+```
+
+### modifying a Car
+
+To modify a car in the catalog, you can enter the following command in the terminal when prompted:
+
+```bash
+modify [make] [model] [year] [newMake] [newModel] [newYear] [Newprice]
+```
+
+For example:
+```bash
+modify Ferrari Spider 2024 Tesla Model3 2023 50000
+```
+
 ### Viewing the Car Catalog
 
 To view the entire car catalog, enter the command:
