@@ -2,7 +2,7 @@
 SRC_DIR = src
 BIN_DIR = bin
 JAR_NAME = CarCatalog.jar
-MAIN_CLASS = StartProgram
+MAIN_CLASS = application.StartProgram
 JAVADOC_DIR = docs
 CAR_CATALOG_FILE = CarCatalog.csv
 
